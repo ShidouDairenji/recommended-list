@@ -1,4 +1,4 @@
-Adventure
+These are some Adventure genre anime to watch
 
 ◆[One Piece](https://anilist.co/anime/21)\
 ◆[The Rising Of The Shield Hero](https://anilist.co/anime/99263)\
