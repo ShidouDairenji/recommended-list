@@ -9,4 +9,4 @@ These are some Shoujo/Drama anime to watch
 ◆[His and Her Circumstances](https://anilist.co/anime/145)\
 ◆[A Lull in the Sea](https://anilist.co/anime/16067www.uwu.com)\
 ◆[Plastic Memories](https://anilist.co/anime/20872)\
-◆[Tokyo Magnitude 8.0](https://anilist.co/anime/6211)\
+◆[Tokyo Magnitude 8.0](https://anilist.co/anime/6211)
