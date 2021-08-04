@@ -7,7 +7,7 @@ You can suggest new recmmondations in genres/tags here by forking it and creatin
 
 ## FAQs
 **Q1. Which source is used for creating this recommendation list ?** \
-Ratings and Reviews from famous websites such as [Anilist](https://anilist.co) and [MyAnimeList](https://myanimelist.net/) and personal experince of several people has been used to create this recommendation list. \
+Ratings and Reviews from famous websites such as [Anilist](https://anilist.co) and [MyAnimeList](https://myanimelist.net/) and personal experince of several people has been used to create this recommendation list. 
 <br\>
 **Q2. Is this list Ranked ?** \
 No.
@@ -19,4 +19,4 @@ You are most welcome to use this list with proper credits which should point to 
 
 [Shidou Dairenji](https://github.com/ShidouDairenji)\
 [Wolfy]()\
-[Young suspense](https://t.me/Young_Suspense) Manga Section\
+[Young suspense](https://t.me/Young_Suspense) Manga Section
