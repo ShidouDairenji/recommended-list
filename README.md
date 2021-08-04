@@ -12,7 +12,7 @@ Ratings and Reviews from famous websites such as [Anilist](https://anilist.co) a
 **Q2. Is this list Ranked ?** \
 No.
 
-**Q3. What if i want to use this list in my Project/Bot/Website/Blog ?**
+**Q3. What if i want to use this list in my Project/Bot/Website/Blog ?** \
 You are most welcome to use this list with proper credits which should point to this repo.
 
 ## Credits
