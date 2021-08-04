@@ -1,4 +1,4 @@
-Ecchi
+**These are some Ecchi genre anime to watch**
 
 ◆[HighSchool DxD](https://anilist.co/anime/11617)\
 ◆[Infinite Stratos](https://anilist.co/anime/9041)\
