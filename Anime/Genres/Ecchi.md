@@ -1,6 +1,6 @@
 Ecchi
 
-◆[HighSchool DxD](https://anilist.co/anime/11617)
+◆[HighSchool DxD](https://anilist.co/anime/11617)\
 ◆[Infinite Stratos](https://anilist.co/anime/9041)
 ◆[HighSchool Of The Dead](https://anilist.co/anime/8074)
 ◆[Yosuga No Sora: In Solitude where we are least alone](https://anilist.co/anime/8861)
