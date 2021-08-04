@@ -1,4 +1,4 @@
-**These are some Fantasy/Isekai genre anime to watch
+**These are some Fantasy/Isekai genre anime to watch**
 
 ◆[Re:Zero](https://anilist.co/anime/21355)\
 ◆[Saga of Tanya the Evil](https://anilist.co/anime/21613)\
@@ -13,4 +13,4 @@
 ◆[Gate](https://anilist.co/anime/20994)\
 ◆[No Game No Life](https://anilist.co/anime/19815)\
 ◆[The 8th Son? Are You Kidding Me?](https://anilist.co/anime/106319)\
-◆[Princess Connect! Re:Dive](https://anilist.co/anime/107871)**
+◆[Princess Connect! Re:Dive](https://anilist.co/anime/107871)
