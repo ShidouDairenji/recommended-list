@@ -19,4 +19,4 @@ You are most welcome to use this list with proper credits which should point to 
 
 [Shidou Dairenji](https://github.com/ShidouDairenji)\
 [Wolfy]()\
-[Young suspense](https://t.me/Young_Suspense) Manga Section
+[Young Suspense](https://t.me/Young_Suspense) (Manga Section)
