@@ -1,4 +1,4 @@
-<a href="https://telegra.ph/file/079d598494d7fbaefcc5d.png"> <img src="https://telegra.ph/file/079d598494d7fbaefcc5d.png" height="200" width="300"></a> 
+<a href="https://telegra.ph/file/079d598494d7fbaefcc5d.png"> <img src="https://telegra.ph/file/079d598494d7fbaefcc5d.png" height="200" width="3000"></a> 
 
 # Recommendedation List
 A list of recommendations given by Uthaha Bot 
