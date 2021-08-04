@@ -5,7 +5,7 @@ A list of recommendations given by Uthaha Bot
   <a href="https://img.shields.io/badge/Utaha%20Senpai%20Bot-Open%20in%20Telegram-red"> <img src="https://img.shields.io/badge/Utaha%20Bot-Open%20in%20Telegram-red" height="18"></a>\
 You can suggest new recmmondations in genres/tags here by forking it and creating a pull request. Got some new Ideas? we will be happy to discuss it.**Just create an [Issue](https://github.com/ShidouDairenji/recommended-List/issues) with proper [Labels](https://github.com/ShidouDairenji/recommended-List/issues/new#:~:text=Labels,None%20yet)**
 
-## FAQs \
+## FAQs
 **Q1. Which source is used for creating this recommendation list ?** \
 Ratings and Reviews from famous websites such as [Anilist](https://anilist.co) and [MyAnimeList](https://myanimelist.net/) and personal experince of several people has been used to create this recommendation list. \
 <br\>
