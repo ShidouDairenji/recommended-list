@@ -17,4 +17,4 @@ Ecchi
 ◆[Sekirei](https://anilist.co/anime/4063)\
 ◆[Maken-Ki! Battling Venus](https://anilist.co/anime/9936)\
 ◆[Manyuu Hiken-chou](https://anilist.co/anime/10465)\
-◆[Samurai Girls](https://anilist.co/anime/8277)\
+◆[Samurai Girls](https://anilist.co/anime/8277)
