@@ -1,4 +1,4 @@
-These are some Adventure genre Mangas to read!
+**These are some Adventure genre Mangas to read!**
 
 ➢[FAIRY TAIL](https://anilist.co/manga/30598)\
 ➢[D.Gray Man](https://anilist.co/manga/30024)\
