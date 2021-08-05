@@ -1,4 +1,4 @@
-These are some Action genre Mangas to read!
+**These are some Action genre Mangas to read!**
 
 ➢[Berserk](https://anilist.co/manga/30002)\
 ➢[Vagabond](https://anilist.co/manga/30656)\
