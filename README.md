@@ -15,7 +15,7 @@ No.
 **Q3. What if i want to use this list in my Project/Bot/Website/Blog ?** \
 You are most welcome to use this list with proper credits which should point to this repo.
 
-## Credits
+## CREDITS
 
 [Shidou Dairenji](https://github.com/ShidouDairenji)\
 [Wolfy]()\
