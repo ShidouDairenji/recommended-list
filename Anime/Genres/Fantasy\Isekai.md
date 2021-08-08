@@ -1,6 +1,6 @@
 **These are some Fantasy/Isekai genre anime to watch**
 
-◆[Re:Zero](https://anilist.co/anime/21355)\
+◆ [Re:Zero](https://anilist.co/anime/21355)\
 ◆[Saga of Tanya the Evil](https://anilist.co/anime/21613)\
 ◆[The Devil is a Part Timer](https://anilist.co/anime/15809)\
 ◆[OverLord](https://anilist.co/anime/20832)\
