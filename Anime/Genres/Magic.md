@@ -7,4 +7,5 @@
 ◆[Magical Warfare](https://anilist.co/anime/19769)\
 ◆[Tokyo Ravens](https://anilist.co/anime/16011)\
 ◆[Zatch Bell](https://anilist.co/anime/250)\
-◆[The Familiar Of Zero](https://anilist.co/anime/1195)
+◆[The Familiar Of Zero](https://anilist.co/anime/1195)\
+◆[Flip Flappers](https://anilist.co/anime/21714)
